@@ -1,5 +1,8 @@
-# AI-Studio-项目标题
-> 一个好的标题会让你的开源项目发挥更大的价值，想不出好的名字也不用担心，起名时就统一使用AIStudio-xxx做开头吧~
+# AI-Studio-多模态青光眼分级
+项目地址<br>
+> https://aistudio.baidu.com/aistudio/projectdetail/2798864
+数据集地址<br>
+>https://aistudio.baidu.com/aistudio/datasetdetail/117383
 
 ## 项目描述
 > 此处可以简要描述项目的“发家史”，例如它是做什么的？它有什么特点？
