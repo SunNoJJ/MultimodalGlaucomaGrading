@@ -1,7 +1,7 @@
 # AI-Studio-多模态青光眼分级
-项目地址<br>
+项目地址</br>
 > https://aistudio.baidu.com/aistudio/projectdetail/2798864
-数据集地址<br>
+数据集地址</br>
 >https://aistudio.baidu.com/aistudio/datasetdetail/117383
 
 ## 项目描述
